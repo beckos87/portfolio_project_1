@@ -167,6 +167,18 @@ a.social:hover {
   clear: both;
 }
 
+
+.textport {
+    background-color: #fff;
+    margin: -20px 0 0 0;
+    padding: 0 0 10px 0;
+    border-radius: 6px;
+    
+}
+
+
+
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
